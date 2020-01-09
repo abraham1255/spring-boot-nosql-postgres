@@ -1,0 +1,4 @@
+/home/nuuptech/ProyectosDemoSpringBoot/crud-profesores/src/main/java/com/example/crudprofesores/model/Profesor.java
+/home/nuuptech/ProyectosDemoSpringBoot/crud-profesores/src/main/java/com/example/crudprofesores/CrudProfesoresApplication.java
+/home/nuuptech/ProyectosDemoSpringBoot/crud-profesores/src/main/java/com/example/crudprofesores/repository/ProfesorRepository.java
+/home/nuuptech/ProyectosDemoSpringBoot/crud-profesores/src/main/java/com/example/crudprofesores/controller/ProfesorController.java
